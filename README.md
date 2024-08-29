@@ -6,6 +6,7 @@
 4.  **fitness_functions.py**: A giant mess of a bunch of different fitness functions we've explored
 5.  **voting_classifier.py**: A class that makes a voting classifier and has some helpful methods
 6.  **utils.py**: Miscelaneous utilities utilized in 1, 2 and some of the notebooks
+7.  **fitness_funcs_list.xlsx**: comprehensive list of fitness functions and Descriptions
 
 Notebooks:
 - 3 notebooks that may be helpful to analyze the different fitness functions
